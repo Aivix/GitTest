@@ -1,0 +1,2 @@
+# GitTest
+Prakses uzdevums
